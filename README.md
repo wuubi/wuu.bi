@@ -1,2 +1,17 @@
 # korin-omnibus
-secrets don't make friends
+
+DNS, wiki, and related content for korin.[XYZ] domains.
+
+### TODO domains
+
+kyleo.io -> to redirect to korin.black ~ 2025.
+
+### Domains with a build
+
+korin.black
+korin.wiki
+
+### Redirects
+
+korin.lol -> @kyle_o graf tweets
+korin.wtf -> Pokemon Parody
