@@ -1,4 +1,4 @@
-# korin-omnibus
+# Korin Black Omnibus
 
 DNS, wiki, and related content for korin.[XYZ] domains.
 
@@ -21,4 +21,9 @@ korin.wtf -> Pokemon Parody
 
 wuu.bi -> wuubi.korin.wiki
 
+codenoobs.org -> cn.korin.wiki
+
 strem.wuu.bi -> twitch.tv/wuubi
+
+### Related repos
+[WUU.BI](https://github.com/wuubi/wuu.bi)
