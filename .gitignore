@@ -130,6 +130,8 @@ dist
 .pnp.*
 
 # korin
+# everything but kaiblack.red and wiki dirs
+# for wuu.bi routing
 black/
 blackspr.ing/
 blue/
