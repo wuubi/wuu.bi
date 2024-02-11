@@ -43,10 +43,8 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/obrien-k/korin-omnibustree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/obrien-k/korin-omnibus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: false,
         theme: {
