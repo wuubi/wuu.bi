@@ -1,6 +1,6 @@
 # Korin Black Omnibus
 
-DNS, wiki, and related content for korin.[XYZ] domains.
+DNS, [wiki](wiki), and related content for korin.[XYZ] domains.
 
 ### TODO domains
 
