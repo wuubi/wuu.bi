@@ -11,7 +11,9 @@ const config = {
   title: 'korin.wiki',
   tagline: '光',
   favicon: 'img/favicon.ico',
-
+  markdown: {
+    mermaid: true,
+  },
   // Set the production url of your site here
   url: 'https://korin.wiki',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -44,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/obrien-k/korin-omnibustree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: false,
         theme: {
@@ -57,8 +59,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      themes: ['@docusaurus/theme-mermaid'],
+      image: 'img/social-card.jpg',
       navbar: {
         title: 'korin.wiki',
         logo: {
