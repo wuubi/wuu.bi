@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'korin.wiki',
-  tagline: '光',
+  tagline: '光琳.ウィキ',
   favicon: 'img/favicon.ico',
   markdown: {
     mermaid: true,
@@ -63,7 +63,7 @@ const config = {
         title: 'korin.wiki',
         logo: {
           alt: 'korin.wiki Logo',
-          src: 'img/logo.svg',
+          src: 'img/korin-logo.png',
         },
         items: [
           {
