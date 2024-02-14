@@ -21,7 +21,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Stellar',
-      items: ['root'],
+      items: ['root', 'code-noobs-archive/Introduction to Programming', 'code-noobs-archive/Introduction to DOM', 'code-noobs-archive/Functions'],
     },
   ]}
 
