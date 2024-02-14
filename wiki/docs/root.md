@@ -46,19 +46,19 @@ Parking Lot
 
 08.06.18 - Code Noobs Bot Intro (DNS/Who.is Slackbot) ([GitHub Repo](https://github.com/code-noobs/slackbot))
 
-09.07.18 - Promises ([video](https://wuu.bi/cn/2018-09-07-promises.mp4), [Son's Mocking Spongebob GitHub Repo](https://github.com/sntruong12/mocking-spongebob-bot))
+09.07.18 - Promises ([video](https://witch.plus/cn/2018-09-07-promises.mp4), [Son's Mocking Spongebob GitHub Repo](https://github.com/sntruong12/mocking-spongebob-bot))
 
-11.12.18 - App Project ([video](https://wuu.bi/cn/2018-11-12-app-project.mp4))
+11.12.18 - App Project ([video](https://witch.plus/cn/2018-11-12-app-project.mp4))
 
-2018-11-30 - App Project 2 ([video](https://wuu.bi/cn/2018-11-30-app-project.mp4))
+2018-11-30 - App Project 2 ([video](https://witch.plus/cn/2018-11-30-app-project.mp4))
 
-[2019-01-18](https://wuu.bi/cn/2019-01-18.mp4)
+[2019-01-18](https://witch.plus/cn/2019-01-18.mp4)
 
-[2019-04-25](https://wuu.bi/cn/2019-04-25-build-a-pc.mp4) - Build a PC
+[2019-04-25](https://witch.plus/cn/2019-04-25-build-a-pc.mp4) - Build a PC
 
-[2019-07-12](https://wuu.bi/cn/codenoobs-071219.mp4)
+[2019-07-12](https://witch.plus/cn/codenoobs-071219.mp4)
 
-[2019-08-22](https://wuu.bi/cn/2019-08-22-stencil-cli-postman.mp4) - Stencil CLI, Postman w/ BigCommerce API
+[2019-08-22](https://witch.plus/cn/2019-08-22-stencil-cli-postman.mp4) - Stencil CLI, Postman w/ BigCommerce API
 
 ### General
 
