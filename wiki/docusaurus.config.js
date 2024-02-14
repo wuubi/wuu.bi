@@ -63,7 +63,7 @@ const config = {
         title: 'korin.wiki',
         logo: {
           alt: 'korin.wiki Logo',
-          src: 'img/korin-logo.png',
+          src: 'img/logo.png',
         },
         items: [
           {
