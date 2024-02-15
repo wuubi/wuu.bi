@@ -1,21 +1,18 @@
-Introduction to Programming
---
-
-****Booleans**** - True/False, Truthy False-y - Binary operators in Javascript programming language.
+**Booleans** - True/False, Truthy False-y - Binary operators in Javascript programming language.
 
 Where does HTML fit in?
 
-****DOM**** - Document Object Model
+**DOM** - Document Object Model
 
-****HyperText Markup Language**** - Skeleton of the Internet
+**HyperText Markup Language** - Skeleton of the Internet
 
-****Cascading Style Sheets**** - Face of the internet
+**Cascading Style Sheets** - Face of the internet
 
-****JavaScript**** - Muscle of the internet ([debatable](https://stackoverflow.com/questions/282329/what-are-five-things-you-hate-about-your-favorite-language))
+**JavaScript** - Muscle of the internet ([debatable](https://stackoverflow.com/questions/282329/what-are-five-things-you-hate-about-your-favorite-language))
 
-****XML -** **[Extensible Markup Language](https://www.w3.org/TR/REC-xml/)
+**XML** - [Extensible Markup Language](https://www.w3.org/TR/REC-xml/)
 
-****JSON**** -[ The Fat-Free Alternative to XML](http://www.json.org/xml.html)
+**JSON** - [The Fat-Free Alternative to XML](http://www.json.org/xml.html)
 
 Week 1: Numbers, Variables, Strings
 -----------------------------------
@@ -39,6 +36,6 @@ These are all tags of the respective element they represent, there's a (frowned-
 TL;DR
 -----
 
-We introduced the term[ Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures), but it wasn't covered. I skipped to variables because it defines itself and figured it'd spark some interest with the time we had. After this meeting, you should understand the internet uses packets to send and receive data (using the TCP/IP protocol) and JavaScript is what causes the interaction/behind-the-scenes of the page.
+We introduced the term[ Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures), but it wasn't covered. We skipped to variables because it defines itself and due to the remaining the time we had. After this meeting, you should understand the internet uses packets to send and receive data (using the TCP/IP protocol) and JavaScript is what causes the interaction/behind-the-scenes of the page.
 
 Do some research on [HTML/CSS](https://webbhost.net/colorgame.html), we'll do a primer on it next week, and start with DataTypes in JS. We'll do a couple of exercises and see where we're at.

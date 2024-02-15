@@ -46,7 +46,7 @@ Parking Lot
 
 08.06.18 - Code Noobs Bot Intro (DNS/Who.is Slackbot) ([GitHub Repo](https://github.com/code-noobs/slackbot))
 
-09.07.18 - Promises ([video](https://witch.plus/cn/2018-09-07-promises.mp4), [Son's Mocking Spongebob GitHub Repo](https://github.com/sntruong12/mocking-spongebob-bot))
+09.07.18 - Promises ([Son's Mocking Spongebob GitHub Repo](https://github.com/sntruong12/mocking-spongebob-bot))
 
 11.12.18 - App Project ([video](https://witch.plus/cn/2018-11-12-app-project.mp4))
 

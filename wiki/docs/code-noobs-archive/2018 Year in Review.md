@@ -1,7 +1,4 @@
-Year in Review, collabCal pre-POC, Express [Video] (01:15:09)
---
-
-****Important note:** **There are some inaccuracies in this video, please refer below to see the correction/accurate data. Related resources at the bottom of the article.
+**Important note:** There are some inaccuracies in this video, please refer below to see the correction/accurate data. Related resources at the bottom of the article.
 
 At 21:17, Kyle states that NPM is included with Node.JS, which is true of packaged Node.JS installs. It is not included with the Node.JS core though.
 
