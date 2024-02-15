@@ -30,25 +30,25 @@ Parking Lot
 
 ### Previous Discussions
 
-01.13.18 - Intro to programming, HTML, and JS Data Types ([GDoc](https://docs.google.com/document/d/1L_fyn1NoOAYgnNr_ue3HDarICV-SDObRVUXIadGg_Hs/edit?usp=sharing), CodePen)
+2018-01-13 - Intro to programming, HTML, and JS Data Types ([GDoc](https://docs.google.com/document/d/1L_fyn1NoOAYgnNr_ue3HDarICV-SDObRVUXIadGg_Hs/edit?usp=sharing), CodePen)
 
-02.10.18 - Intro to DOM, DOM manipulation with JS ([GDoc](https://docs.google.com/document/d/1zL4oN0p_a2t7485VXa3jaaSqOsEXS36cIr74NhGO2nU/edit?usp=sharing))
+2018-02-10 - Intro to DOM, DOM manipulation with JS ([GDoc](https://docs.google.com/document/d/1zL4oN0p_a2t7485VXa3jaaSqOsEXS36cIr74NhGO2nU/edit?usp=sharing))
 
-03.10.18 - Code Noobs Root discussion, Git Introduction, Chrome Inspector ([GitHub Repo](https://github.com/johnfwebdev/ChromeDevTools))
+2018-03-10 - Code Noobs Root discussion, Git Introduction, Chrome Inspector ([GitHub Repo](https://github.com/johnfwebdev/ChromeDevTools))
 
-03.24.18 - Git Workflow ([GDoc](https://docs.google.com/document/d/1mLihvz309n9VOlHo_bmZx7s7p2BHsJgnl5mot0j_uuU/edit?usp=sharing), [audio](https://webbhost.net/env/cn/a/GitWorkflow-032418.mp3), [GitHub Repo](https://github.com/bdav87/code-noobs-gitflow))
+2018-03-24 - Git Workflow ([GDoc](https://docs.google.com/document/d/1mLihvz309n9VOlHo_bmZx7s7p2BHsJgnl5mot0j_uuU/edit?usp=sharing), [audio](https://webbhost.net/env/cn/a/GitWorkflow-032418.mp3), [GitHub Repo](https://github.com/bdav87/code-noobs-gitflow))
 
-04.07.18 - Functions ([audio](https://drive.google.com/file/d/193rCViGxSjqWM7ioterlou1ICiE9ILlk/view?usp=sharing))
+2018-04-07 - Functions ([audio](https://drive.google.com/file/d/193rCViGxSjqWM7ioterlou1ICiE9ILlk/view?usp=sharing))
 
-06.16.18 - Grunt/Webpack
+2018-06-16 - Grunt/Webpack
 
-07.11.18 - To-Do List in JS/jQuery [(video, [GitHub Repo](https://github.com/webbhostnet/code-noobs-to-do))
+2018-07-11 - To-Do List in JS/jQuery [(video, [GitHub Repo](https://github.com/webbhostnet/code-noobs-to-do))
 
-08.06.18 - Code Noobs Bot Intro (DNS/Who.is Slackbot) ([GitHub Repo](https://github.com/code-noobs/slackbot))
+2018-08-06 - Code Noobs Bot Intro (DNS/Who.is Slackbot) ([GitHub Repo](https://github.com/code-noobs/slackbot))
 
-09.07.18 - Promises ([Son's Mocking Spongebob GitHub Repo](https://github.com/sntruong12/mocking-spongebob-bot))
+2018-09-07 - Promises ([Son's Mocking Spongebob GitHub Repo](https://github.com/sntruong12/mocking-spongebob-bot))
 
-11.12.18 - App Project ([video](https://witch.plus/cn/2018-11-12-app-project.mp4))
+2018-11-12 - App Project
 
 2018-11-30 - App Project 2 ([video](https://witch.plus/cn/2018-11-30-app-project.mp4))
 
