@@ -4,30 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'fhwqagads',
+    title: 'KORIN.WIKI',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in ipsum tincidunt, facilisis sapien eget, pretium elit. 
-        Suspendisse quis est interdum, imperdiet dolor non, dictum felis.
+        This wiki. Pronounced, wee-kee.
       </>
     ),
   },
   {
-    title: 'Lorem Ipsum',
+    title: 'KORIN.BLACK',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Curabitur magna enim, accumsan vitae massa ut, <code>ullamcorper</code> luctus ligula. 
+        Introducing <code>korin.black</code>. 
       </>
     ),
   },
   {
-    title: '它起源于',
+    title: 'WUU.BI',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        也称乱数假文或者哑元文本
+        What is Wuu.bi?
       </>
     ),
   },

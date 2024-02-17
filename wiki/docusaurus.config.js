@@ -68,9 +68,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'wikiSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Wiki',
           },
           {to: 'https://kyleo.io', label: 'Blog', position: 'left'},
           {
@@ -87,7 +87,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Wiki',
                 to: '/docs/intro',
               },
             ],

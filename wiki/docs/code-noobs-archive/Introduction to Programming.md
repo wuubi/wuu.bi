@@ -15,7 +15,7 @@ Where does HTML fit in?
 **JSON** - [The Fat-Free Alternative to XML](http://www.json.org/xml.html)
 
 Week 1: Numbers, Variables, Strings
------------------------------------
+---
 
 Strings, Numbers, and Variables are as they sound, but with caveats/details.
 
@@ -33,9 +33,9 @@ You might be familiar with some of the following:
 
 These are all tags of the respective element they represent, there's a (frowned-upon) in-line CSS style that selects the .body class to declare changes to what it has selected (the body everything on the page)
 
-TL;DR
------
+THE PARKING LOT ARCHIVE
+--
 
-We introduced the term[ Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures), but it wasn't covered. We skipped to variables because it defines itself and due to the remaining the time we had. After this meeting, you should understand the internet uses packets to send and receive data (using the TCP/IP protocol) and JavaScript is what causes the interaction/behind-the-scenes of the page.
+how we can use the "inspect" function in a browser to diagnose issues with a store, whether it's a script issue or whatever. -[ Chrome DevTools About page](https://developers.google.com/web/tools/chrome-devtools/) -[ Chrome in general](http://www.google.com/googlebooks/chrome/)
 
-Do some research on [HTML/CSS](https://webbhost.net/colorgame.html), we'll do a primer on it next week, and start with DataTypes in JS. We'll do a couple of exercises and see where we're at.
+I was thinking it would be fun for us to do slack code stuff as an early starting project. like how to make custom icons and stuff. not sure if we have the permissions to do it, but could be a good topic one night. -[ Tutorials to look at](https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers)

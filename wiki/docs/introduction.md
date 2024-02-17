@@ -5,4 +5,4 @@ slug: /
 
 # Introduction
 
-Dope dope dope.
+omnibus - adj. of, relating to, or providing for many things at once
