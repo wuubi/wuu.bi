@@ -18,7 +18,7 @@ To do something exactly would require Haskell (their page is built on Hykell), a
 
 SEO in terms of today
 
-[How to Build an App That Doesn’t Fall Apart Two Days Later](How-to-Build-an-App-That-Doesn’t-Fall-Apart-Two-Days-Later)
+[How to Build an App That Doesn’t Fall Apart Two Days Later](blog-posts/scraps/How-to-Build-an-App-That-Doesnt-Fall-Apart-Two-Days-Later)
 
 _Relevant links:_
 
@@ -44,19 +44,19 @@ Wiki Pages
 ======
 This is a wiki of wiki pages that will be created... Bear with me...
 
-[Audiophile](wiki/audiophile)
+[Audiophile](audiophile)
 
-[Cinephile](wiki/cinephile)
+[Cinephile](cinephile)
 
 [Dream Journal](dream-journal)
 
-[Linux](linux)
+[Linux](operating-system/Linux)
 
-[MacOS](macos)
+[MacOS](operating-system/MacOS)
 
 [Sapphire-Zen Build](Sapphire-Zen-Build)
 
-[Windows](microsoft-windows)
+[Windows](operating-system/Microsoft-Windows)
 
 Some of my Favorite Repos
 ======

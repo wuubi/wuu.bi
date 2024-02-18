@@ -29,4 +29,4 @@ These sites will track only while active, may miss first few days after lengthy 
 [Twitch Achievements Link (It's hard to find, replace `wuubi` with your nick)](https://dashboard.twitch.tv/u/wuubi/achievements)
 
 Example from my own Twitch:
-![wuubi-achievements-page](uploads/196e4cb38de7071cf82736bd23b07f97/wuubi-achievements-page.jpg)
+![wuubi-achievements-page](../../uploads/196e4cb38de7071cf82736bd23b07f97/wuubi-achievements-page.jpg)

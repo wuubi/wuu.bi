@@ -8,7 +8,7 @@ permalink: /Blog-Posts/
 
 [Fictionalized Corporations in Real Life](Fictionalized-Corporations-in-Real-Life)
 
-[How to Build an App That Doesn’t Fall Apart Two Days Later](How-to-Build-an-App-That-Doesn’t-Fall-Apart-Two-Days-Later)
+[How to Build an App That Doesn’t Fall Apart Two Days Later](How-to-Build-an-App-That-Doesnt-Fall-Apart-Two-Days-Later)
 
 Introduction to Site
 

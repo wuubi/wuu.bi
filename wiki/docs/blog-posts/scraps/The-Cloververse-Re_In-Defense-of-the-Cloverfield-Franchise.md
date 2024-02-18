@@ -2,11 +2,11 @@
 
 I want to believe
 
-There will always be a place in my heart for the original Cloverfield film and the time I spent on dozens of different forums tracking the progress of what was "uncovered" over the months leading up to 01.18.08, and the alternate universe it would be opening. The so-called [Cloververse](https://web.archive.org/web/20180903195016/https://www.reddit.com/r/Cloververse/). Each of the works created thus far are worth looking into in their own right,[ I mean who doesn't have a Netflix account](https://web.archive.org/web/20180903195016/https://www.netflix.com/title/80134431) to watch the latest release *The Cloverfield Paradox. *
+There will always be a place in my heart for the original Cloverfield film and the time I spent on dozens of different forums tracking the progress of what was "uncovered" over the months leading up to 01.18.08, and the alternate universe it would be opening. The so-called [Cloververse](https://web.archive.org/web/20180903195016/https://www.reddit.com/r/Cloververse/). Each of the works created thus far are worth looking into in their own right,[ I mean who doesn't have a Netflix account](https://web.archive.org/web/20180903195016/https://www.netflix.com/title/80134431) to watch the latest release *The Cloverfield Paradox. 
 
 [There does seem to be a pattern of the films being made up of existing works that are just missing the right parts](https://web.archive.org/web/20180903195016/https://www.engadget.com/2018/02/05/cloverfield-paradox-netflix/) and making it into something as part of this bigger universe, but I think it's setting up the next projects J.J. Abrams has in mind. 10 Cloverfield Lane was an excellent surprise and one that reignited my excitement for the franchise. If you haven't seen it already, you should (it's on [Amazon](https://web.archive.org/web/20180903195016/https://www.amazon.com/10-Cloverfield-Lane-John-Goodman/dp/B01CUVU7DQ?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01CUVU7DQ) and [iTunes](https://web.archive.org/web/20180903195016/https://itunes.apple.com/us/movie/10-cloverfield-lane/id1085930296))
 
-This isn't to say *Paradox *is a great film in its own right, and it only left me wanting more of the Cloververse. Obviously this is the intended effect, but now I'm unsure of what's next. I'll be skeptical going into the next entry, but I'm hopeful it'll be a step in the right direction.
+This isn't to say *Paradox* is a great film in its own right, and it only left me wanting more of the Cloververse. Obviously this is the intended effect, but now I'm unsure of what's next. I'll be skeptical going into the next entry, but I'm hopeful it'll be a step in the right direction.
 
 The original *Cloverfield* is one that many considered over-hyped, but I tend to keep my expectations measured and it was exactly what it was promised to be.
 
@@ -28,8 +28,8 @@ Cloverfield is a classic for myself, but it's not for everyone. The first person
 
 There are now three movies in the Cloverfield franchise. One is great, one is good and the third is ... available for free with your Netflix subscription. I think you can figure out which is which.
 
-> *The Cloverfield Paradox* has sullied the reputation of the Cloverfield franchise somewhat. But it's worth taking the time to give the first movie another chance --- it deserves it --- while remembering why so many people love the series. That love comes from the franchise's approach to the movie business itself, but it's also due to the fact that the series is still more good than bad.<-- bad sentence
->
+> *The Cloverfield Paradox* has sullied the reputation of the Cloverfield franchise somewhat. But it's worth taking the time to give the first movie another chance it deserves it while remembering why so many people love the series. That love comes from the franchise's approach to the movie business itself, but it's also due to the fact that the series is still more good than bad. bad sentence
+
 > The joy of being a Cloverfield fan doesn't always come directly from the movies themselves. The original *Cloverfield* was marketed in part with an alternate reality game, in which fans scoured the internet for clues and shared conspiracy theories among themselves before the movie's release.
 
 [Original Article](https://web.archive.org/web/20180903195016/https://www.polygon.com/2018/2/8/16991384/cloverfield-paradox-explained-series-10-lane-j-j-abrams)
