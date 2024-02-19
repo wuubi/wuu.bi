@@ -66,7 +66,8 @@ Parking Lot
 
 [Free Code Camp](https://www.freecodecamp.org/) 
 
-[Levels of Programming Languages](http://www.play-hookey.com/computers/language_levels.html) 
+[Levels of Programming Languages(2008-07-24)](https://web.archive.org/web/20080901000000*/http://www.play-hookey.com/computers/language_levels.html) 
+[Levels of Programming Languages(2020-07-07)](https://web.archive.org/web/20200707202253/http://www.play-hookey.com/computers/language_levels.html)
 
 [Hacker News](https://news.ycombinator.com)
 
