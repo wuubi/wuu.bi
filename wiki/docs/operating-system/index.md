@@ -6,7 +6,12 @@ tags:
   - noter
 ---
 
-## Operating System Agnostic
+## gCloud enterprise commnds
+```
+gcloud dns managed-zones create "orphic-enterprises" \
+    --dns-name "orphic.enterprises." \
+    --description "Automatically managed zone by orphic.enterprises" \
+    --project orphic-ent-dev
 
-- e.g.
-- etc.
+gcloud dns record-sets list --zone "orphic-enterprises" --name "orphic.enterprises." --type NS --project orphic-ent-dev
+```
