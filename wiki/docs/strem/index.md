@@ -1,3 +1,13 @@
+---
+title: strem
+permalink: /strem/
+---
+
+Strem
+==
+
+# Useful Link
+
 ## Must watch 
 Imagine your own example of the title and then compare notes
 
