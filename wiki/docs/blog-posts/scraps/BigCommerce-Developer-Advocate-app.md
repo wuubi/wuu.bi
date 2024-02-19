@@ -1,3 +1,9 @@
+---
+layout: page
+title: How to Build Your First BigCommerce App
+permalink: /BigCommerce-Developer-Advocate-app/
+---
+
 # How to Build Your First BigCommerce App
 
 ## Introduction
