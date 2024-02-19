@@ -74,7 +74,8 @@ COLOPHON/Easter Eggs:
 ====
 Steal This
 ======
-https://www.godaddy.com/garage/facebook-profile-picture-size-and-more/
+https://web.archive.org/web/20240205204920/https://www.godaddy.com/resources/skills/guide-to-social-media-image-sizes
+
 Cheat Sheets
 ========
 https://about.gitlab.com/images/press/git-cheat-sheet.pdf
