@@ -1,7 +1,10 @@
 ---
-description: korin.wiki cinephile
+layout: page
+title: cinephile
+permalink: /cinephile/
 ---
 
-# cinephile
-
 cinephile
+==
+
+## Useful Links
