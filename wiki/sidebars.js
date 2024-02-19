@@ -20,8 +20,13 @@ const sidebars = {
   stellarSidebar: [
     {
       type: 'category',
-      label: 'Stellar',
+      label: 'Code Noobs',
       items: ['code-noobs-archive/index', 'code-noobs-archive/Introduction to Programming', 'code-noobs-archive/Introduction to DOM', 'code-noobs-archive/Functions'],
+    },
+    {
+      type: 'link',
+      label: 'Stellarv0', // The link label
+      href: 'https://github.com/orphic-inc/stellar-compose', // The external URL
     },
   ]}
 
