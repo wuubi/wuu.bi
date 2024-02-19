@@ -61,6 +61,6 @@ If your app is ready for primetime and you want to list it to our App Marketplac
 
 Conclusion
 
-Creating an app of any kind can be an involved task but building your first in a new environment will always be strange. With the BigCommerce platform we try to create a familiar flow with our authorization process and I hope this article made it feel more at home for fresh faces to our community.
+Creating an app of any kind can be an involved task but building your first in a new environment will always be strange. The BigCommerce platform creates a familiar flow with its auth process but retains many compliances one likely seeks to offload to an ecom when working with retail and other specific use cases. I hope this article made it feel more at home for fresh faces to the ecom dev community.
 
 What apps have you been working on lately? Have you tried the latest package from [BigDesign](https://github.com/bigcommerce/big-design) with your UIs? Tell me in the comments or on X [@kyle_o](https://x.com/kyle_o).
