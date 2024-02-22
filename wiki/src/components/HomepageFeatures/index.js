@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        What is Wuu.bi?
+        What is <code>wuu.bi</code>?
       </>
     ),
   },
