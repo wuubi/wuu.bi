@@ -81,3 +81,22 @@ Cheat Sheets
 https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 [iTerm Shortcuts](https://gist.github.com/squarism/ae3613daf5c01a98ba3a) Compare to modified
 [Apple Mac Keyboard shortcuts (Official)](https://support.apple.com/en-us/HT201236)
+
+
+COLOPHON
+=======
+▄██████████████▄▐█▄▄▄▄█▌
+██████▌▄▌▄▐▐▌███▌▀▀██▀▀
+████▄█▌▄▌▄▐▐▌▀███▄▄█▌
+▄▄▄▄▄██████████████
+
+▄██████████████▄▐█▄▄▄▄█▌
+██████▌▄▌▄▐▐▌███▌▀▀██▀▀
+████▄█▌▄▌▄▐▐▌▀███▄▄█▌
+▄▄▄▄▄██████████████
+▀▀▀▀█████████████▀
+
+▄████████████▄▐█▄▄▄▄█▌
+█████▌▄▌▄▐▐▌██▌▀▀██▀▀
+███▄█▌▄▌▄▐▐▌▀██▄▄█▌
+▄▄▄▄█████████████
