@@ -47,6 +47,8 @@ Counting to ten
 "Hey Siri, taimā o kyu-bu ni setto."
 "Hey Siri, taimā o juu-bu ni setto."
 
+Ichijikan
+one hour
 
 5 And finally, say "Hey
 Siri、音楽をかけて。"'。”
