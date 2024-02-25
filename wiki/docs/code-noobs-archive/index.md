@@ -178,3 +178,7 @@ I was thinking it would be fun for us to do slack code stuff as an early startin
 
 
 #### Ray-Tracing
+
+### Artificial Intelligence
+
+https://www.researchgate.net/profile/Wilco-Moerman/publication/250809440_Learning_Agents_in_Quake_III/links/594101cc45851566e1bb0a8b/Learning-Agents-in-Quake-III.pdf
