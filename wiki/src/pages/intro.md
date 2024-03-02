@@ -9,7 +9,7 @@ omnibus - adj. of, relating to, or providing for many things at once
 
 ## KORIN.WIKI
 
-A wiki documenting the structure of KORIN omnibus and related WITCH.PLUS products.
+A wiki documenting the structure of KORIN omnibus and related WITCH.PLUS products. [Also contains KO's personal wiki](/docs/-Home).
 
 ## KORIN.RED
 

@@ -1,4 +1,9 @@
-## Contributor Program
+---
+title: Program Contributor
+permalink: /program-contributor/
+---
+
+## Program Contributor
 
 ### [YouTube](https://contributors.youtube.com/)
 https://www.youtube.com/watch?v=CdQNsNJoSPg

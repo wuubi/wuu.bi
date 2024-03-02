@@ -1,3 +1,8 @@
+---
+title: Japanese Notes
+permalink: /japanese-notes/
+---
+
 ## Japanese notes
 
 
