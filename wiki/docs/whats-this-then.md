@@ -1,3 +1,5 @@
+These are links I may or may not one day follow-up on reading.
+
 https://freesoft.dev/topics/docker-compose/page/17
 
 https://medium.com/@mvaldesdeleon/advent-of-haskell-950d6408a729
