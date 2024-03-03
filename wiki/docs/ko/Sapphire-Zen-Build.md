@@ -2,8 +2,8 @@
 description: korin.wiki Sapphire Zen Build
 ---
 
-![Sapphire Zen (2018-03-15)](../uploads/post/sapphire-zen-2018-03-15.jpg)
-![Sapphire Zen Internals(2018-03-15)](../uploads/post/sapphire-zen-internals-2018-03-15.jpg)
+![Sapphire Zen (2018-03-15)](../../uploads/post/sapphire-zen-2018-03-15.jpg)
+![Sapphire Zen Internals(2018-03-15)](../../uploads/post/sapphire-zen-internals-2018-03-15.jpg)
 
 From [PCPartPicker](https://pcpartpicker.com/b/Wv7WGX):
 
