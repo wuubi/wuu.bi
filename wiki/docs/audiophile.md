@@ -11,3 +11,15 @@ Audiophile
 [Frequency response comparison](https://www.rtings.com/headphones/1-4/graph#789/3992/299)
 
 Uses TIN Audio T3 vs Sennheiser 280 HD Pro for example.
+
+
+## Stereo Setup
+This is 4 years outdated, and the SMSL is no longer available for purchase. Sorry!
+
+[Micca MB42X](https://www.amazon.com/gp/product/B00E7H8GG2/)
+[AmazonBasics 16-Gauge Audio Stereo Speaker Wire Cable - 50 Feet](https://www.amazon.com/gp/product/B006LW0WDQ/)
+[SMSL SA50 50Wx2 TDA7492 Class D Amp + Power Adapter](https://www.amazon.com/gp/product/B00F0H8TOC/)
+
+Pioneer Elite
+
+Yamaha 5.1
