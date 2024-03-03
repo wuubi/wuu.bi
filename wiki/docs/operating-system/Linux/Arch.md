@@ -1,9 +1,3 @@
-## Arch Noter
---
-WIP, as always -ko
-
-04-11-2023 T17:34:00
-
 ### Useful Commands
 `lsblk -f`
 
@@ -21,7 +15,7 @@ yay -S nmon
 dig command = install bind via pacman
 
 ```
-  pacman -S neofetch glances dstat atop iftop htop bind
+  pacman -S neofetch glances atop iftop htop bind
 ```
 
 `sudo pacman -Syu ufw`
